@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml"
 #EXTINF:-1,TV 1
 http://iptv.tvmalaysia.cc:80/932633/932633/7177
 #EXTINF:-1,TV 2
