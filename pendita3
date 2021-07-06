@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1,TV 1
+http://iptv.tvmalaysia.cc:80/932633/932633/7177
+#EXTINF:-1,TV 2
+http://iptv.tvmalaysia.cc:80/932633/932633/7178
+#EXTINF:-1,TV 3
+http://iptv.tvmalaysia.cc:80/932633/932633/7266
+#EXTINF:-1,TV 3 HD
+http://iptv.tvmalaysia.cc:80/932633/932633/8750
+#EXTINF:-1,TV 9
+http://iptv.tvmalaysia.cc:80/932633/932633/7185
+#EXTINF:-1,RTM Sports
+http://iptv.tvmalaysia.cc:80/932633/932633/7186
+#EXTINF:-1,TV IKIM
+http://iptv.tvmalaysia.cc:80/932633/932633/7192
+#EXTINF:-1,Berita RTM
+http://iptv.tvmalaysia.cc:80/932633/932633/7191
+#EXTINF:-1,BERNAMA
+http://iptv.tvmalaysia.cc:80/932633/932633/7190
+#EXTINF:-1,TV-AlHijrah
+http://iptv.tvmalaysia.cc:80/932633/932633/6834
+#EXTINF:-1,RTB MALAYSIA
+http://iptv.tvmalaysia.cc:80/932633/932633/7188
 #EXTINF:-1,ASTRO Ria HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6730
 #EXTINF:-1,ASTRO Prima HD
@@ -8,6 +30,8 @@ http://iptv.tvmalaysia.cc:80/932633/932633/6740
 #EXTINF:-1,Astro Citra HD (subtitle)
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/932633/932633/7267
+#EXTINF:-1,TV SARAWAK
+http://iptv.tvmalaysia.cc:80/932633/932633/6846
 #EXTINF:-1,Astro Boo
 http://iptv.tvmalaysia.cc:80/932633/932633/8872
 #EXTINF:-1,ASTRO Naura HD
@@ -152,8 +176,7 @@ http://iptv.tvmalaysia.cc:80/932633/932633/6766
 http://iptv.tvmalaysia.cc:80/932633/932633/6848
 #EXTINF:-1,UTV Movies International
 http://iptv.tvmalaysia.cc:80/932633/932633/6847
-#EXTINF:-1,TV SARAWAK
-http://iptv.tvmalaysia.cc:80/932633/932633/6846
+
 #EXTINF:-1,tvN Movies
 http://iptv.tvmalaysia.cc:80/932633/932633/6845
 #EXTINF:-1,tvN HD
@@ -168,8 +191,7 @@ http://iptv.tvmalaysia.cc:80/932633/932633/6841
 http://iptv.tvmalaysia.cc:80/932633/932633/6840
 #EXTINF:-1,TVB Classic
 http://iptv.tvmalaysia.cc:80/932633/932633/6839
-#EXTINF:-1,TV-AlHijrah
-http://iptv.tvmalaysia.cc:80/932633/932633/6834
+
 #EXTINF:-1,Travel Channel HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6833
 #EXTINF:-1,TLC HD
@@ -208,26 +230,6 @@ http://iptv.tvmalaysia.cc:80/932633/932633/6799
 http://iptv.tvmalaysia.cc:80/932633/932633/6798
 #EXTINF:-1,HBO HD
 http://iptv.tvmalaysia.cc:80/932633/932633/6797
-#EXTINF:-1,TV 1
-http://iptv.tvmalaysia.cc:80/932633/932633/7177
-#EXTINF:-1,TV 2
-http://iptv.tvmalaysia.cc:80/932633/932633/7178
-#EXTINF:-1,TV 3
-http://iptv.tvmalaysia.cc:80/932633/932633/7266
-#EXTINF:-1,TV 3 HD
-http://iptv.tvmalaysia.cc:80/932633/932633/8750
-#EXTINF:-1,TV 9
-http://iptv.tvmalaysia.cc:80/932633/932633/7185
-#EXTINF:-1,RTM Sports
-http://iptv.tvmalaysia.cc:80/932633/932633/7186
-#EXTINF:-1,TV IKIM
-http://iptv.tvmalaysia.cc:80/932633/932633/7192
-#EXTINF:-1,Berita RTM
-http://iptv.tvmalaysia.cc:80/932633/932633/7191
-#EXTINF:-1,BERNAMA
-http://iptv.tvmalaysia.cc:80/932633/932633/7190
-#EXTINF:-1,RTB MALAYSIA
-http://iptv.tvmalaysia.cc:80/932633/932633/7188
 #EXTINF:-1,Fox Movies Premium
 http://iptv.tvmalaysia.cc:80/932633/932633/8838
 #EXTINF:-1,Fox Action Movies
@@ -264,16 +266,7 @@ http://iptv.tvmalaysia.cc:80/932633/932633/7078
 http://iptv.tvmalaysia.cc:80/932633/932633/7077
 #EXTINF:-1,HGTV
 http://iptv.tvmalaysia.cc:80/932633/932633/7076
-#EXTINF:-1,Era FM
-http://iptv.tvmalaysia.cc:80/932633/932633/7169
-#EXTINF:-1,Hot FM
-http://iptv.tvmalaysia.cc:80/932633/932633/7170
-#EXTINF:-1,Hitz FM
-http://iptv.tvmalaysia.cc:80/932633/932633/7171
-#EXTINF:-1,Sinar FM
-http://iptv.tvmalaysia.cc:80/932633/932633/7172
-#EXTINF:-1,THR GEGAR
-http://iptv.tvmalaysia.cc:80/932633/932633/7174
+
 #EXTINF:-1,Cinema World
 http://iptv.tvmalaysia.cc:80/932633/932633/7219
 #EXTINF:-1,Thrill
@@ -410,3 +403,13 @@ http://iptv.tvmalaysia.cc:80/932633/932633/7202
 http://iptv.tvmalaysia.cc:80/932633/932633/7204
 #EXTINF:-1,Universal Kids FHD
 http://iptv.tvmalaysia.cc:80/932633/932633/7205
+#EXTINF:-1,Era FM
+http://iptv.tvmalaysia.cc:80/932633/932633/7169
+#EXTINF:-1,Hot FM
+http://iptv.tvmalaysia.cc:80/932633/932633/7170
+#EXTINF:-1,Hitz FM
+http://iptv.tvmalaysia.cc:80/932633/932633/7171
+#EXTINF:-1,Sinar FM
+http://iptv.tvmalaysia.cc:80/932633/932633/7172
+#EXTINF:-1,THR GEGAR
+http://iptv.tvmalaysia.cc:80/932633/932633/7174
